@@ -1,4 +1,3 @@
-# diwansinghchauhan
 # 👋 Hi, I’m Diwan Singh Chauhan  
 🎓 M.Tech in Data Science | Aspiring Data Scientist | Machine Learning Enthusiast  
 
