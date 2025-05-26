@@ -33,7 +33,6 @@ Currently, I'm **seeking Data Scientist roles** where I can contribute to innova
 - 🌐 Portfolio: [diwansinghchauhan.github.io/portfolio](https://diwansinghchauhan.github.io/portfolio)
 - 💼 LinkedIn: [linkedin.com/in/diwansinghchauhan](https://www.linkedin.com/in/diwansinghchauhan)
 - 📫 Email: diwansinghchauhan91@gmail.com
-- 🧑‍💻 GitHub: [github.com/diwansinghchauhan](https://github.com/diwansinghchauhan)
 
 ---
 
