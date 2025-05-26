@@ -10,11 +10,11 @@ Currently, I'm **seeking Data Scientist roles** where I can contribute to innova
 
 - 🎓 M.Tech in Data Science from **Defence Institute of Advanced Technology (DIAT), Pune**
 - 💼 **Machine Learning Intern** at *LogicLens Solutions Pvt. Ltd.* (Jul 2024 – Dec 2024)
-- 🧠 Experienced with machine learning, deep learning, NLP, and computer vision
+- 🧠 Experienced with machine learning, deep learning, NLP and computer vision
 - 💻 Strong in **Python**, and well-versed with:
   - **ML/DL Libraries**: Scikit-learn, TensorFlow, PyTorch
   - **Data Handling & Visualization**: NumPy, Pandas, Matplotlib, Seaborn
-  - **Computer Vision & NLP Tools**: OpenCV, NLTK, Transformers
+  - **Computer Vision & NLP Tools**: OpenCV, NLTK
 
 ---
 
