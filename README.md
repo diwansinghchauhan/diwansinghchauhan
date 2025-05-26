@@ -28,11 +28,22 @@ Currently, I'm **seeking Data Scientist roles** where I can contribute to innova
 
 ---
 
+---
+
+## 📊 GitHub Stats
+
+![Diwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=diwansinghchauhan&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diwansinghchauhan&layout=compact)
+
+---
+
 ## 🔗 Connect with Me
 
 - 🌐 Portfolio: [diwansinghchauhan.github.io/portfolio](https://diwansinghchauhan.github.io/portfolio)
 - 💼 LinkedIn: [linkedin.com/in/diwansinghchauhan](https://www.linkedin.com/in/diwansinghchauhan)
 - 📫 Email: diwansinghchauhan91@gmail.com
+
 
 ---
 
