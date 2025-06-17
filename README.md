@@ -37,7 +37,7 @@ Currently, I’m seeking **Data Scientist / GenAI roles** where I can apply my s
 ## 🚀 Recent Projects
 
 - 💬 **LangChain-based Chatbot using Ollama's Mistral Model (Local)**  
-  → Used LangChain + RAG + Ollama + Mistral + LangSmith for full-stack GenAI demo
+  → Used LangChain + Ollama + Mistral + LangSmith for full-stack GenAI demo
 
 - 🧠 **Next Word Prediction with LSTM**  
   → Trained on WikiText-2, built using Embedding + LSTM layers, deployed via Streamlit
