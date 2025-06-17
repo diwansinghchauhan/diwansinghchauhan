@@ -2,21 +2,21 @@
 
 🎓 M.Tech in Data Science | Aspiring Data Scientist | ML & GenAI Enthusiast  
 
-I'm a data-driven problem solver passionate about building intelligent systems using Machine Learning, Deep Learning, and Generative AI.  
+I'm a data-driven problem solver passionate about building intelligent systems using Machine Learning, Deep Learning and Generative AI.  
 Currently, I’m seeking **Data Scientist / GenAI roles** where I can apply my skills to real-world problems.
 
 ---
 
 ## 💼 About Me
 
-- 🎓 M.Tech in Data Science from **Defence Institute of Advanced Technology (DIAT), Pune)**
+- 🎓 M.Tech in Data Science from **Defence Institute of Advanced Technology (DIAT), Pune**
 - 💼 **ML Intern** at *LogicLens Solutions Pvt. Ltd.* (Jul 2024 – Dec 2024)
 - 🤖 Hands-on with **ML, DL, NLP, CV**, and **LLMs** for practical applications
 - 💻 Core Strengths:
   - **Languages & Tools**: Python, Scikit-learn, TensorFlow, PyTorch
   - **Data & Viz**: Pandas, NumPy, Matplotlib, Seaborn
   - **NLP/CV**: NLTK, Hugging Face, OpenCV
-  - **GenAI**: LangChain, Transformers, Mistral, Streamlit, Ollama
+  - **GenAI**: LangChain, Transformers, Streamlit
 
 ---
 
