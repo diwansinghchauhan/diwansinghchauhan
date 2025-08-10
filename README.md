@@ -1,61 +1,68 @@
 # 👋 Hi, I’m Diwan Singh Chauhan  
 
-🎓 M.Tech in Data Science | Aspiring Data Scientist | ML & GenAI Enthusiast  
+🎓 **M.Tech in Data Science** | **AI & Legal-Tech Solutions Developer** | **ML, NLP & GenAI Enthusiast**  
 
-I'm a data-driven problem solver passionate about building intelligent systems using Machine Learning, Deep Learning and Generative AI.  
-Currently, I’m seeking **Data Scientist / GenAI roles** where I can apply my skills to real-world problems.
+I’m passionate about building and deploying intelligent AI solutions using **Machine Learning**, **Deep Learning**, **Generative AI**, and **Retrieval-Augmented Generation (RAG)**.  
+Currently seeking **Data Scientist / AI Engineer / GenAI roles** where I can leverage my expertise in **cloud-based AI** and **domain-specific applications**.
 
 ---
 
 ## 💼 About Me
 
-- 🎓 M.Tech in Data Science from **Defence Institute of Advanced Technology (DIAT), Pune**
-- 💼 **ML Intern** at *LogicLens Solutions Pvt. Ltd.* (Jul 2024 – Dec 2024)
-- 🤖 Hands-on with **ML, DL, NLP, CV**, and **LLMs** for practical applications
-- 💻 Core Strengths:
-  - **Languages & Tools**: Python, Scikit-learn, TensorFlow, PyTorch
-  - **Data & Viz**: Pandas, NumPy, Matplotlib, Seaborn
-  - **NLP/CV**: NLTK, Hugging Face, OpenCV
-  - **GenAI**: LangChain, Transformers, Streamlit
+- 🎓 **M.Tech in Data Science** – Defence Institute of Advanced Technology (DIAT), Pune  
+- 💼 **AI Intern** – *Soven Developer* (Jul 2025 – Present)  
+  - Built **Flask-based APIs** for legal document processing with **Google Cloud Firestore**, **GCS**, **Vertex AI embeddings**, and **FAISS**  
+  - Engineered **RAG pipelines** using LangChain for legal query answering  
+  - Developed **multi-jurisdictional AI support** and **case classification models**  
+- 💼 **Machine Learning Intern** – *LogicLens Solutions Pvt. Ltd.* (Jul 2024 – Dec 2024)  
+  - Designed **real-time computer vision systems** using YOLO & FaceNet  
+  - Integrated AI models into production-grade applications  
+- 🤖 Experienced in **LLMs**, **NLP**, **Computer Vision**, **Cloud AI**, and **GenAI frameworks**  
 
 ---
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/-LangChain-4B0082?style=flat)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-4B0082?style=flat)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
-## 🚀 Recent Projects
+## 🚀 Featured Projects
 
-- 💬 **LangChain-based Chatbot using Ollama's Mistral Model (Local)**  
-  → Used LangChain + Ollama + Mistral + LangSmith for full-stack GenAI demo
+- ⚖️ **AI-Powered Legal Document Processing & RAG Query System**  
+  → Flask + Vertex AI + FAISS + LangChain backend for secure legal document storage and intelligent retrieval  
+
+- 💬 **LangChain-based Chatbot using Ollama’s Mistral Model (Local)**  
+  → Local LLM chatbot with LangSmith debugging and LangChain pipelines  
 
 - 🧠 **Next Word Prediction with LSTM**  
-  → Trained on WikiText-2, built using Embedding + LSTM layers, deployed via Streamlit
+  → Sequence modeling on WikiText-2 with Embedding + LSTM layers  
+
+- 🎬 **Automatic GIF Creator from Videos**  
+  → Automated GIF creation with Whisper transcription and silence detection  
 
 - 🔍 **IMDB Review Sentiment Analysis**  
-  → Built a binary sentiment classifier using RNNs and word embeddings
-
-- ⚙️ **Fault Diagnosis in Bearings using CNN + Domain Adaptation (Thesis)**  
-  → Multi-target adaptation using Jensen-Shannon-based cluster alignment (CAN-JSD)
+  → Binary sentiment classifier with RNNs & embeddings, deployed via Streamlit  
 
 ---
 
 ## 📫 Let’s Connect
 
-- 🌐 Portfolio: [diwansinghchauhan.github.io/portfolio](https://diwansinghchauhan.github.io/portfolio)
-- 💼 LinkedIn: [linkedin.com/in/diwansinghchauhan](https://www.linkedin.com/in/diwansinghchauhan)
-- 📧 Email: diwansinghchauhan91@gmail.com
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://diwansinghchauhan.github.io/portfolio)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diwansinghchauhan)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/diwansinghchauhan)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:diwansinghchauhan91@gmail.com)  
 
 ---
 
-_Thanks for stopping by! Feel free to explore my projects and collaborate on exciting AI/ML challenges._
+💡 *Open to collaborating on AI/ML projects, Generative AI solutions, and legal-tech innovations.*
