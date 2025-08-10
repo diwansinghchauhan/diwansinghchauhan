@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Diwan Singh Chauhan  
 
-🎓 **M.Tech in Data Science** | **AI & Legal-Tech Solutions Developer** | **ML, NLP & GenAI Enthusiast**  
+🎓 **M.Tech in Data Science** | **ML, NLP & GenAI Enthusiast**  
 
 I’m passionate about building and deploying intelligent AI solutions using **Machine Learning**, **Deep Learning**, **Generative AI**, and **Retrieval-Augmented Generation (RAG)**.  
 Currently seeking **Data Scientist / AI Engineer / GenAI roles** where I can leverage my expertise in **cloud-based AI** and **domain-specific applications**.
